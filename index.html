@@ -1,0 +1,47 @@
+    <!DOCTYPE html>
+    <html lang="pt-BR">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>😺</text></svg>">
+    <title>CatMatch 🐈 · Encontre a raça de gato ideal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    <header class="topo">
+        <strong class="logo">🐾 CatMatch</strong>
+        <nav>
+        <a href="#escolha">Características</a>
+        <a href="#resultados">Matches</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+        <h1>Qual gato combina com você? 🐈</h1>
+        <p>Escolha as características que você gosta e o CatMatch encontra os gatos que mais combinam com o seu gosto.</p>
+        </section>
+
+        <section id="escolha" class="painel">
+        <h2>1. O que você procura num gato?</h2>
+        <div id="chips" class="chips"></div>
+        <button id="limpar" class="btn secundario" type="button">Limpar escolhas</button>
+        </section>
+
+        <section id="resultados">
+        <h2>2. Seus matches</h2>
+        <p id="status" role="status">Carregando raças...</p>
+        <div id="cards" class="cards"></div>
+        <button id="mais" class="btn" type="button" hidden>Mostrar mais raças</button>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <p>Dados: <a href="https://thecatapi.com/">The Cat API</a> · Atividades de Front-end e APIs/JSON · Vitória Kereski da Rosa</p>
+    </footer>
+
+    <script src="script.js"></script>
+    </body>
+    </html>
