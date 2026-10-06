@@ -35,7 +35,7 @@ Escolha as características que você procura e o CatMatch mostra as raças mais
 
 ## 🐾 Sobre o projeto
 
-O **CatMatch** é uma aplicação web que ajuda a encontrar raças de gatos que combinam com o que a pessoa procura. Em vez de pesquisar raça por raça, o usuário clica em características como *carinhoso*, *calmo*, *gato grande* ou *bom com crianças*, e o site compara essas escolhas com os dados reais de cada raça.
+O **CatMatch** é uma aplicação WebDev que ajuda a encontrar raças de gatos que combinam com o que a pessoa procura. Em vez de pesquisar raça por raça, o usuário clica em características como *carinhoso*, *calmo*, *gato grande* ou *bom com crianças*, e o site compara essas escolhas com os dados reais de cada raça.
 
 O projeto reúne duas atividades:
 
