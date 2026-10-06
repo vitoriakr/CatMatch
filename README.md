@@ -35,13 +35,13 @@ Escolha as características que você procura e o CatMatch mostra as raças mais
 
 ## 🐾 Sobre o projeto
 
-O **CatMatch** é uma aplicação WebDev que ajuda a encontrar raças de gatos que combinam com o que a pessoa procura. Em vez de pesquisar raça por raça, o usuário clica em características como *carinhoso*, *calmo*, *gato grande* ou *bom com crianças*, e o site compara essas escolhas com os dados reais de cada raça.
+O **CatMatch** é uma aplicação  Web Development que ajuda a encontrar raças de gatos que combinam com o que a pessoa procura. Em vez de pesquisar raça por raça, o usuário clica em características como *carinhoso*, *calmo*, *gato grande* ou *bom com crianças*, e o site compara essas escolhas com os dados reais de cada raça.
 
 O projeto reúne duas atividades:
 
 | Disciplina | O que foi pedido | Como aparece no CatMatch |
 | --- | --- | --- |
-| **Web (APIs/JSON)** | Buscar uma API, consumir os dados e explicar no README | Consumo da The Cat API e da MyMemory com `fetch`, `async/await` e JSON |
+| ** Web Development** | Buscar uma API, consumir os dados e explicar no README | Consumo da The Cat API e da MyMemory com `fetch`, `async/await` e JSON |
 | **Front-end** | Página responsiva com header, título, descrição, 3+ cards com botão e footer | Layout mobile first, grid de cards com botão "Saber mais" em cada um, header e footer |
 
 ---
@@ -230,7 +230,7 @@ O código usa `response.ok`, `response.status` e `try/catch` para informar o usu
 
 ## 📚 Conteúdos aplicados
 
-**Web (APIs/JSON)**
+** Web Development **
 
 - O que é uma API, cliente, servidor, requisição e resposta;
 - Endpoints e método `GET`;
@@ -289,6 +289,6 @@ CatMatch/
 
 **Vitória Kereski da Rosa**
 
-Projeto acadêmico desenvolvido para as disciplinas de **Web (APIs/JSON)** e **Front-end**.
+Projeto acadêmico desenvolvido para as disciplinas de ** Web Development** e **Front-end**.
 
 Dados de gatos fornecidos pela [The Cat API](https://thecatapi.com/). Traduções por [MyMemory](https://mymemory.translated.net/).
